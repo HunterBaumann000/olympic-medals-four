@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.titleFont {
+  font-size:30px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.numberFont {
+  font-size:40px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.smallTextFont {
+  font-size:18px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#centerContent{
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+#bottomBox {
+  background-color: rgb(224, 191, 148);
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
